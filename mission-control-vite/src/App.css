@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.mainContainer {
+  background-color: black;
+  color: white;
+  width: 100vw;
+  min-height: 100vh;
+  padding: 10px;
+  text-align: left;
+}

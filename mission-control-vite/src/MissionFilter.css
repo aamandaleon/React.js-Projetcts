@@ -1,0 +1,15 @@
+.filterButton {
+  
+   width: 110px;
+   height: 35px;
+   border: 2px solid red;
+   margin-right: 15px; /* seperate buttons */
+   color: white;
+   background-color: transparent;
+}
+
+/*remove space to the right of last button */
+.filterButton:last-child {
+    margin-right: 0;
+  }
+  
