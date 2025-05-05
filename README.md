@@ -1,4 +1,4 @@
-#React.js Projects created using Vite
+# React.js Projects created using Vite
 
 ## Amanda Leon 
 
